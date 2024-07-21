@@ -1,0 +1,4 @@
+baseURL = 'https://sardar.dev/'
+languageCode = 'en-us'
+title = 'Raja Sardar'
+theme = 'PaperMod'
