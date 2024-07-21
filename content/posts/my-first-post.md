@@ -3,7 +3,6 @@ title = 'My First Post'
 date = 2024-07-21T21:10:13+05:30
 description = "After soo long of more than 12 years get currage to start my own blog"
 tags = ["firstpost", "lifelession"]
-draft = true
 +++
 
 From my school life, i was trying to start a blog of my own, everytime when i plan to start, my interest on that goes away. Or I start a blog and then forget about it, School has been compleated almost 9-10 years ago, left collage more than 5 years ago.
