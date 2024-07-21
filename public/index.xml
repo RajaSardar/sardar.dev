@@ -6,7 +6,14 @@
     <description>Recent content on Raja Sardar</description>
     <generator>Hugo -- 0.129.0</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Sun, 21 Jul 2024 21:10:13 +0530</lastBuildDate>
     <atom:link href="https://sardar.dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://sardar.dev/posts/my-first-post/</link>
+      <pubDate>Sun, 21 Jul 2024 21:10:13 +0530</pubDate>
+      <guid>https://sardar.dev/posts/my-first-post/</guid>
+      <description>After soo long of more than 12 years get currage to start my own blog</description>
+    </item>
   </channel>
 </rss>
