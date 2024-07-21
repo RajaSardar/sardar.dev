@@ -5,7 +5,8 @@
     <link>https://sardar.dev/categories/</link>
     <description>Recent content in Categories on Raja Sardar</description>
     <generator>Hugo -- 0.129.0</generator>
-    <language>en-us</language>
+    <language>en</language>
+    <copyright>Sardar.dev</copyright>
     <atom:link href="https://sardar.dev/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

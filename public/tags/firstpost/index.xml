@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Firstpost on Raja Sardar</title>
+    <link>http://localhost:1313/tags/firstpost/</link>
+    <description>Recent content in Firstpost on Raja Sardar</description>
+    <generator>Hugo -- 0.129.0</generator>
+    <language>en</language>
+    <copyright>Sardar.dev</copyright>
+    <lastBuildDate>Sun, 21 Jul 2024 21:10:13 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/firstpost/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Sun, 21 Jul 2024 21:10:13 +0530</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>After soo long of 12 years get currage to start my own blog</description>
+    </item>
+  </channel>
+</rss>
