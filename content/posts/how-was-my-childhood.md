@@ -3,7 +3,6 @@ title = 'How Was My Childhood'
 date = 2024-07-22T21:18:55+05:30
 description = "I still have my first cricket bat that I received."
 tags = ["childhood", "life lessons"]
-draft = true
 +++
 
 I still have my first bat that I received from my father. I was very less active in outdoor activities. This was largely because my parents often isolated me to help me focus on my future. Whenever I did have some free time, I would go to the paddy fields, climb trees, sit under the shade, and enjoy the greenery, feeling at peace.
