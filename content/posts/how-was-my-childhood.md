@@ -1,37 +1,37 @@
 +++
 title = 'How Was My Childhood'
 date = 2024-07-22T21:18:55+05:30
-description = "I still have my first Cricket bat, that i got"
-tags = ["childhood", "lifelessons"]
+description = "I still have my first cricket bat that I received."
+tags = ["childhood", "life lessons"]
 draft = true
 +++
 
-I still have my first bat that i got from my fathar, I was that much active in the outdoor activity that i was never able to play anything, that because of my parents always put me in isolation, so that i can focus on my feature, and also if i ever get some time i used to go into paddy field, cliemb tree, sit under the tree and enjoy greenary, feel the peace.
+I still have my first bat that I received from my father. I was very less active in outdoor activities. This was largely because my parents often isolated me to help me focus on my future. Whenever I did have some free time, I would go to the paddy fields, climb trees, sit under the shade, and enjoy the greenery, feeling at peace.
 
-In my chieldhood, as every single bengali, i like to become a poet, I used to sit alone and think about the nature and gives it a rytham. I will never forget about that feelings ever, that had the eternal peace for me - "Alone in the meiddle of green field, and the sweet wind breezaring, not so far away cows are busy with eating grasses or Sitting the the open sky on a fullmoon night and enjoying the beauty of the God how beautifully he has made the galaxy with lots of glittering stars and the most beautifull moon"
+In my childhood, like every Bengali, I dreamed of becoming a poet. I would sit alone, contemplating nature and giving it a rhythm. I will never forget those feelings; they brought me eternal peace. I remember being "alone in the middle of a green field, with the sweet breeze blowing, while cows grazed nearby. I would sit under the open sky on a full moon night, marveling at the beauty of God’s creation, the galaxy filled with glittering stars and the most beautiful moon."
 
-I still remember those days when electricity used to cut for more than the whole night at summer and we used to go out and lay on the street on a mat, the street area used to be the end of our village and after that you will only see paddy field, And there you will ge the most switest wind of your entire life. 
+I still recall the summer nights when electricity would be out for hours. We would lay on mats in the street, which marked the end of our village, with paddy fields stretching beyond. There, I experienced the sweetest winds of my life.
 
-My daily life was like weak up early in the morning by mom's or dad's calling, after weaking up me and my sister used to do marathon of brush, so that who will come first, he/she will get the bigger amount of snacks that dad bring last night for us. 
+My daily routine began with waking up early to my parents' calls. After waking up, my sister and I would race to brush our teeth, eager to be the first so we could enjoy the larger share of snacks that Dad had brought home the night before.
 
-Then go for tution and I was the most laziest person of all, and i never liked reading books so my teacher `Koto Pisi` used to bit me everyday with stick, after my mother she was my first teacher and today i think what i am today, she has a big impact on that.
+Then it was off to tuition, where I was the laziest student of all. I never enjoyed reading books, so my teacher, Koto Pisi, would hit me with a stick every day. After my mother, she was my first teacher, and I owe much of who I am today to her influence.
 
-In school also I used to be the most isolated guy, I still remeber my roll number in class 1 was 23 and then become 1st in the class but still i was the boy who used to get biitten by the teacher the most because my spelling mistake, that you can also see today !!!
+In school, I was often isolated. I still remember my roll number in class 1 was 23, and I later became first in the class. However, I was still the boy who got punished the most by the teacher for my spelling mistakes, a habit that persists even today!
 
-High school was the most beautifull time till now, I secure 8-9th in high school entrance and from there to securing 2nd in the whole class. You will not find me in class as i will hide behind all. But if it is Mathamatic, if you were in my class you will feel like i am the only student to whome teacher is teaching, I will shought, I will debate. I will do whatever i need to grab his attention. 
+High school was the most beautiful time of my life. I secured 8th or 9th place in the high school entrance exam and then climbed to 2nd in my class. You wouldn't find me in class, as I would hide at the back. But when it came to mathematics, if you were in my class, it would feel like I was the only student the teacher was addressing. I would shout and debate, doing whatever it took to grab his attention.
 
-I got few best teacher of my life three math teachers Durga sir, Soumitra Sir and Sujan sir.
-And the gurdian without him I would have never be able to become what i am today, he was the terror of the whole school, was my mentor, my tution teacher, my school teacher, my gurdian after parents. He always wanted to made me the best. 
+I had a few of the best teachers in my life: Durga Sir, Soumitra Sir, and Sujan Sir. And there was my guardian, without whom I would never have become who I am today. He was the terror of the whole school, my mentor, my tuition teacher, my school teacher, and a guardian after my parents. He always aimed to make me the best, He is Suman Sir. 
 
-Today i miss those school days, those friends, those hangout in class break, hangout with Soumitra sir in spoorts room after school.
+Today, I miss those school days, my friends, and the moments we shared during class breaks, especially hanging out with Soumitra Sir in the sports room after school.
 
-And lots of lifelong friends, Salman, Goutam, Gopal, Indra and sooooooo onnnnnnnnnn........ 
+I also cherish the lifelong friendships I formed with Salman, Goutam, Gopal, Indra, and many others.
 
-And she, i never missed classes without any reasone, because i was drugged by her beauty and cuteness.
+And then there was her, I never missed classes without a reason because I was captivated by her beauty and charm.
 
-My school does not had science stream so i had to switch school in my 11th. So i left my school and moved to an another school which had only 2 class in that entire school (class 11 and class 12), It is one of the few school like that in the entire India. 
-Like the unique in neature of this school, the students were also unique in nature, lots of sons of drug diller to criminal, they were in this school. 
+My school did not have a science stream, so I had to switch to another school for my 11th grade. I left my school and moved to one that only had classes 11 and 12. It was one of the few schools like that in all of India. 
 
-We use to go tution in the morning then from tution to school as our shool made mendatory of doing all 8 classes in a day, then after finishing the school we have to go for another tution that was 40-50 km far from home, we used to reach home at night 10-11 sometime.
+Like the unique nature of this school, the students were also distinctive. Many were the children of drug dealers and criminals.
+
+We would attend tuition in the morning, then head to school, as our school mandated that we attend all eight classes in a day. After finishing school, we had to go to another tuition class that was 40-50 km away from home, often reaching home around 10 or 11 at night.
 
 continue.......
