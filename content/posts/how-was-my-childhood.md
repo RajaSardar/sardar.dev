@@ -1,7 +1,6 @@
 +++
-title = 'How Was My Childhood'
+title = 'I still have my first bat that I received from my father'
 date = 2024-07-22T21:18:55+05:30
-description = "I still have my first cricket bat that I received."
 tags = ["childhood", "life lessons"]
 +++
 
