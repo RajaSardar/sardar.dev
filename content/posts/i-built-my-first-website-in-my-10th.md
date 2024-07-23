@@ -1,10 +1,10 @@
 +++
-title = 'I Built My First Website in My 10th'
+title = 'I Built My Very First Website in My Class 10th'
 date = 2024-07-23T21:57:05+05:30
 tags = ["childhood", "life lessons", "first mobile", "first website", "first domain"]
 +++
 
-I forgot to tell you something. When I was in middle school, we got our first mobile phone, a Nokia 2626, around 2009-2010. My mobile was GPRS-enabled, allowing us to access the internet, although it took about two minutes to load a very basic internet page. The cost was around 1 rupee for 100 KB, and we used to buy a 20 MB pack for 5 rupees, valid for three days, all on 2G data. That's when I started my internet journey. I downloaded Opera Mini and UC Browser, began exploring the internet, created a Gmail account, and signed up for Facebook. I felt like I knew a lot about the internet.
+I forgot to tell you something. When I was in middle school, we got our first mobile phone, a Nokia 2626, around 2009-2010. My mobile was GPRS enabled, allowing us to access the internet, although it took about two minutes to load a very basic internet page. The cost was around 1 rupee for 100 KB, and we used to buy a 20 MB pack for 5 rupees, valid for three days, all on 2G data. That's when I started my internet journey. I downloaded Opera Mini and UC Browser, began exploring the internet, created a Gmail account, and signed up for Facebook. I felt like I knew a lot about the internet.
 
 I used to lecture everyone in my school about technology, especially about the internet. My friends Goutam, Salman, and I would call, message, and discuss everything about Gmail, social media, how to download songs, and where to find "Sunday Suspense" and soo on. One day, in my 10th grade, Salman told me he had built his own website. That single sentence changed my life. That day, I searched for how to build a website from my mobile and found a few resources, including wapka.mobi. I created an account and started exploring how to have my own website. That night, I created my very first website, which was something like `rajasardar.wapka.mobi`. 
 

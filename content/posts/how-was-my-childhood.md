@@ -1,10 +1,10 @@
 +++
-title = 'I Still Have My First Chricket Bat That I Received From My Dad'
+title = 'I Still Have My First Cricket Bat That I Received From My Dad'
 date = 2024-07-22T21:18:55+05:30
 tags = ["childhood", "life lessons"]
 +++
 
-I still have my first bat that I received from my father. I was very less active in outdoor activities. This was largely because my parents often isolated me to help me focus on my future. Whenever I did have some free time, I would go to the paddy fields, climb trees, sit under the shade, and enjoy the greenery, feeling at peace.
+I still have my first cricket bat that I received from my father. I was very less active in outdoor activities. This was largely because my parents often isolated me to help me focus on my future. Whenever I did have some free time, I would go to the paddy fields, climb trees, sit under the shade, and enjoy the greenery, feeling at peace.
 
 In my childhood, like every Bengali, I dreamed of becoming a poet. I would sit alone, contemplating nature and giving it a rhythm. I will never forget those feelings; they brought me eternal peace. I remember being "alone in the middle of a green field, with the sweet breeze blowing, while cows grazed nearby. I would sit under the open sky on a full moon night, marveling at the beauty of God’s creation, the galaxy filled with glittering stars and the most beautiful moon."
 
