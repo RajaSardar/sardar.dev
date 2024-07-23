@@ -1,5 +1,5 @@
 +++
-title = 'I still have my first bat that I received from my father'
+title = 'I Still Have My First Chricket Bat That I Received From My Dad'
 date = 2024-07-22T21:18:55+05:30
 tags = ["childhood", "life lessons"]
 +++
