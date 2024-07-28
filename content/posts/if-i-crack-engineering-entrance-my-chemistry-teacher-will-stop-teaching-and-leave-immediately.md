@@ -1,25 +1,21 @@
 +++
 title = 'If I Crack Engineering Entrance My Chemistry Teacher Will Stop Teaching and Leave Immediately'
 date = 2024-07-24T00:14:18+05:30
-draft = true
 +++
 
-I used to go for chemistory tution 30-40kms far from home at Sonarpur, in city. I was so bad at study that, he said if i can crack engineering entrance, he will stop teaching and leve the center, Although one of my friend from near my home, named Manideepa used to be the most talented student of all. 
-Firstly i was thinking like it is because i am from rural area, so he is ignoring or treating us like this, then found no, Manideepa is also from my area, maybe teacher knows how to provoke someone to do and achinve something that they are not bealiving in by themselvs.
+I used to travel 30-40 kilometers for chemistry tuition in Sonarpur, a city area. I struggled with my studies so much that my teacher said if I could crack the engineering entrance exam, he would stop teaching and leave the center. One of my friends from near my home, named Manideepa, was the most talented student of all.
 
-One year after when i got qualified for Engineering, all my friends asked me to told and take revange of him, what he has told me earlier, but that day i realize why he said and what he said, 
-I will always be thankfull of what he has done.
+Initially, I thought my teacher was ignoring me because I was from a rural area, but then I realized that Manideepa was also from my area. Perhaps the teacher knew how to provoke someone into achieving something they didn't believe they could do themselves.
 
-Although i took a gap of 1 year at my 12th. In that year i used to work at my father's Cycle Reparing shop from morning 7-8 till night 9-11. Although i know all the stuff, but the one thing that used to come to my mind every second is, i will do anything else but this....
-I have to get out of this.. I have lot of dreams to fullfil, that one year was one of the darkest year of my life. From outsider to teacher everyone treat me like i am a failour. But when i moved to engineering i got a new life. 
-Latter found many of my friends are still stuck with deacission making, waht they wants to do in life, and what they are doing, at least i know what i know want from my life.
+A year later, when I qualified for engineering, all my friends urged me to confront him about his earlier comments. However, that day I understood why he said what he did, and I will always be thankful for his guidance.
 
-Life isn't very deficult if we maintain a routine and follow that for long term.
-And need self-confidance in ourself that whatever the world is saying may be they are right from thair side, but I know myself, I know what i am capeble of, I will always beleve in myself. It is very myuch important. There is a phreas that `Repeat a lie often enough and it becomes the truth`.
-So don't let the negetive words to come in you. But be judgemental, judge what they are saying, sometime nature try to say something to you. 
+I took a gap year in my 12th grade, during which I worked at my father's cycle repair shop from 7 AM to 9 or 11 PM. Although I was familiar with the work, the thought that consumed me every second was that I would do anything else but this. I needed to escape; I had many dreams to fulfill. That year was one of the darkest periods of my life. Everyone, from outsiders to teachers, treated me like a failure. But once I moved into engineering, I felt like I had a new lease on life.
 
-When i moved to my engineering collage, I used to be the most shy and teche boy.
-I was the only boy in the entire class to have a desktop in hostel, used to carry that every week or every two week to home and then back to collage hostel which was aroud 150 Kms far. 
+Later, I found that many of my friends were still struggling with decision making about their futures, while I at least knew what I wanted from my life.
 
-When i reach collage, first time in my life saw someone outside of my state and who does not know Bengali and also i don't know much Hindi, We used to stay in a hostel room where we were 6 students in a room, that was a vintage building used to be the Jail of the King of Burdwan. 
+Life isn't very difficult if we maintain a routine and follow it over the long term. We need self confidence, believing that whatever the world says may be true from their perspective, but I know myself and what I am capable of. I will always believe in myself. This belief is crucial. There is a phrase: "Repeat a lie often enough, and it becomes the truth." Therefore, don’t let negative words affect you. However, be judgmental; assess what others are saying, as sometimes nature tries to convey something important to you.
+
+When I entered my engineering college, I was the shyest and most tech savvy boy in my class. I was the only student in the entire class who had a desktop in the hostel, which I carried home every week or every two weeks, making the 150 kilometer journey back and forth.
+
+
 
