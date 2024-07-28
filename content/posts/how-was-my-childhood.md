@@ -31,5 +31,3 @@ My school did not have a science stream, so I had to switch to another school fo
 Like the unique nature of this school, the students were also distinctive. Many were the children of drug dealers and criminals.
 
 We would attend tuition in the morning, then head to school, as our school mandated that we attend all eight classes in a day. After finishing school, we had to go to another tuition class that was 40-50 km away from home, often reaching home around 10 or 11 at night.
-
-continue.......

@@ -17,5 +17,3 @@ When I was in 11th grade, all these internet and e-commerce companies started bo
 Throughout this journey, I always thought I would pursue a degree in Mathematics, as it was my lifelong dream. However, due to personal reasons, I dropped out of my higher secondary final exam (12th grade). After that, my father bought me a guitar and a desktop computer in 2013-2014. I built priceraj.com as a fully functional price comparison website, but only the front end without any backend logic. I identified gaps in how to make it functional, how to implement logic, and how to make it user ready, which led me to learn more about computers and the internet.
 
 I started taking programming tuition in C language from a local computer teacher. Knowing that even though I would become a mathematician, I still wanted to build something using technology that would impact society.
-
-Continue.......
