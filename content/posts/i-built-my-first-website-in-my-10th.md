@@ -1,5 +1,5 @@
 +++
-title = 'I Built My Very First Website in My Class 10th'
+title = 'I Built My Very First Website in My 10th'
 date = 2024-07-23T21:57:05+05:30
 tags = ["childhood", "life lessons", "first mobile", "first website", "first domain"]
 +++
