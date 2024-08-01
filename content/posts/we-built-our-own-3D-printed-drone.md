@@ -4,15 +4,14 @@ date = 2024-08-02T01:50:41+05:30
 draft = true
 +++
 
-After the most awsome first year, We moved to new hostel which was inside collage campus. First few days was filled with fear of ragging by our beloved seniors. We had a very bad view about ragging, but eventually started understanding that, those seniors are becoming our gurdians and frends, And what is bealived to be ragging is what we need in our real life, The ability to communicate, come out of our comfort zone and other stuff....
+After an awesome first year, we moved to a new hostel located inside the college campus. The first few days were filled with the fear of ragging from our beloved seniors. We had a very negative view of ragging, but eventually, we began to understand that those seniors were becoming our guardians and friends. What we believed to be ragging was actually what we needed in real life: the ability to communicate, step out of our comfort zones, and develop other essential skills.
 
-In collage what we call ragging that in life we call job interview. 
+In college, what we call ragging is similar to what we face in job interviews.
 
-We used to have a gang of innovation seekers, we sit together and discuss abut new things and ideas. We used to do brain storming together. We had our own way to find ideas. 
+We formed a gang of innovation seekers, sitting together to discuss new ideas and concepts. Brainstorming became our regular activity, and we had our own unique methods for generating ideas.
 
-Nabarun, Sayan, Tanuj, Sudhakar and others for us brain storming was our reguler activity and it was like caffine for us. Specially me and Tanuj we used to start our discussions after dinner and that disscussions coontinues till the next day morning 4am sometime 6am and even 7am. And it was not like, by any chance it happened for one day, It was our reguler routine. Our roommates used to become fustrated by our diccusstions. 
+Nabarun, Sayan, Tanuj, Sudhakar, and few others, we considered brainstorming our daily routine; it was like caffeine for us. Especially Tanuj and I, we would start our discussions after dinner, and those conversations sometimes continued until 4 AM, 6 AM, or even 7 AM the next day. This was not just a one time occurrence; it became our regular routine. Our roommates often became frustrated with our late night discussions.
 
-We took supscription to nearby science center and enrolled to innovation center. Also got fund for our project which was a drone. We built most of the body parts with 3d printing except the electronics parts. 
+We subscribed to a nearby science center and enrolled in innovation center. We also secured funding for our project, which was a drone. We built most of the body parts using 3D printing, except for the electronic components.
 
-Although it was a semi successfull project as we were not able to fly it because of the parts that we build by our own using 3d printer. As it was a very long project, we never got time to fix it before leaving. 
-
+Although it was a semi successful project, we were unable to fly the drone due to the parts we had created ourselves with the 3D printer. Since it was a long term project, we never found the time to fix it before leaving.
