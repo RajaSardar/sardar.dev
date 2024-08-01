@@ -8,4 +8,7 @@ draft = true
 1. 
 2. I recoment ragging in collage with limit 
 3. In a collage with more than 2000 students, i was able to build very few frinds and i still have regrets of that.
-4. 
+4. My binary system rule for habbit builder and goal achivement
+5. We had our own way to find ideas
+6. I missed the opportunity to be a bitcoin milionear 
+7. 
