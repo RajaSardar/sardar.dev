@@ -1,0 +1,11 @@
++++
+title = 'Drafts'
+date = 2024-07-29T01:23:56+05:30
+draft = true
++++
+
+
+1. 
+2. I recoment ragging in collage with limit 
+3. In a collage with more than 2000 students, i was able to build very few frinds and i still have regrets of that.
+4. 

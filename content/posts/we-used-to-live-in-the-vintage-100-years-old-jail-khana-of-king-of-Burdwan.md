@@ -7,6 +7,7 @@ Upon arriving at college, I encountered people from outside my state who didn't 
 
 I saw a vintage Kaman in the jungle area of the hostel, and there were also some old locked rooms that used to be the nachghor (dance hall) of the king. Additionally, I heard that there used to be an underground tunnel connecting the building to the main house of the king, which has been locked from both sides.
 
+I forgot to mention one thing: the name of our first year hostel was Banabas. The name fits perfectly with the atmosphere.
 
 This is the main entrance of the hostel.
 ![The main gate of Banabas Boys Hostel](/img/banabas/banabas.jpg)
