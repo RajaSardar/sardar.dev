@@ -1,6 +1,7 @@
 +++
 title = 'If I Crack Engineering Entrance My Chemistry Teacher Will Stop Teaching and Leave Immediately'
 date = 2024-07-24T00:14:18+05:30
+tags = ["Cracking Engineering", "Bounce Back"]
 +++
 
 I used to travel 30-40 kilometers for chemistry tuition in Sonarpur, a city area. I struggled with my studies so much that my teacher said if I could crack the engineering entrance exam, he would stop teaching and leave the center. One of my friends from near my home, named Manideepa, was the most talented student of all.

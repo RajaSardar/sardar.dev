@@ -1,7 +1,7 @@
 +++
 title = 'We Built Our Own 3D Printed Drone'
 date = 2024-08-02T01:50:41+05:30
-draft = true
+tags = ["College", "Drone", "Idea", "Hostel"]
 +++
 
 After an awesome first year, we moved to a new hostel located inside the college campus. The first few days were filled with the fear of ragging from our beloved seniors. We had a very negative view of ragging, but eventually, we began to understand that those seniors were becoming our guardians and friends. What we believed to be ragging was actually what we needed in real life: the ability to communicate, step out of our comfort zones, and develop other essential skills.

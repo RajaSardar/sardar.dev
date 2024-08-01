@@ -1,6 +1,7 @@
 +++
 title = 'We Used to Live in the Vintage 100 Years Old Jail Khana of King of Burdwan'
 date = 2024-07-25T16:46:49+05:30
+tags = ["College", "Hostel"]
 +++
 
 Upon arriving at college, I encountered people from outside my state who didn't know Bengali, and I didn't know much Hindi. We stayed in a hostel room with six students, located in a vintage building that used to be a jail of the King of Burdwan. 

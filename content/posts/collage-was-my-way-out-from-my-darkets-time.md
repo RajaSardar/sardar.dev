@@ -1,6 +1,7 @@
 +++
 title = 'College Was My Way Out from My Darkest Time'
 date = 2024-07-26T01:21:44+05:30
+tags = ["College", "Darkest Time"]
 +++
 
 

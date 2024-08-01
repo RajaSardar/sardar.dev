@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Drone on Raja Sardar</title>
+    <link>https://sardar.dev/tags/drone/</link>
+    <description>Recent content in Drone on Raja Sardar</description>
+    <generator>Hugo -- 0.129.0</generator>
+    <language>en</language>
+    <copyright>Sardar.dev</copyright>
+    <lastBuildDate>Fri, 02 Aug 2024 01:50:41 +0530</lastBuildDate>
+    <atom:link href="https://sardar.dev/tags/drone/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>We Built Our Own 3D Printed Drone</title>
+      <link>https://sardar.dev/posts/we-built-our-own-3d-printed-drone/</link>
+      <pubDate>Fri, 02 Aug 2024 01:50:41 +0530</pubDate>
+      <guid>https://sardar.dev/posts/we-built-our-own-3d-printed-drone/</guid>
+      <description>After an awesome first year, we moved to a new hostel located inside the college campus. The first few days were filled with the fear of ragging from our beloved seniors. We had a very negative view of ragging, but eventually, we began to understand that those seniors were becoming our guardians and friends. What we believed to be ragging was actually what we needed in real life: the ability to communicate, step out of our comfort zones, and develop other essential skills.</description>
+    </item>
+  </channel>
+</rss>
