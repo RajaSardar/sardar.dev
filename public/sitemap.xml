@@ -2,10 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://sardar.dev/tags/bplan/</loc>
+    <lastmod>2024-08-07T02:54:20+05:30</lastmod>
+  </url><url>
+    <loc>https://sardar.dev/tags/business-plan/</loc>
+    <lastmod>2024-08-07T02:54:20+05:30</lastmod>
+  </url><url>
+    <loc>https://sardar.dev/posts/my-first-business-plan-was-rejected-by-iit-kharagpur/</loc>
+    <lastmod>2024-08-07T02:54:20+05:30</lastmod>
+  </url><url>
     <loc>https://sardar.dev/posts/</loc>
     <lastmod>2024-08-07T02:54:20+05:30</lastmod>
   </url><url>
     <loc>https://sardar.dev/</loc>
+    <lastmod>2024-08-07T02:54:20+05:30</lastmod>
+  </url><url>
+    <loc>https://sardar.dev/tags/</loc>
     <lastmod>2024-08-07T02:54:20+05:30</lastmod>
   </url><url>
     <loc>https://sardar.dev/tags/college/</loc>
@@ -18,9 +30,6 @@
     <lastmod>2024-08-02T01:50:41+05:30</lastmod>
   </url><url>
     <loc>https://sardar.dev/tags/idea/</loc>
-    <lastmod>2024-08-02T01:50:41+05:30</lastmod>
-  </url><url>
-    <loc>https://sardar.dev/tags/</loc>
     <lastmod>2024-08-02T01:50:41+05:30</lastmod>
   </url><url>
     <loc>https://sardar.dev/posts/we-built-our-own-3d-printed-drone/</loc>
