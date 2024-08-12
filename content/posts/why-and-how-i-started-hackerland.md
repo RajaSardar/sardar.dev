@@ -10,13 +10,13 @@ From this simple idea, we started HackerLand with the motto of creating a commun
 We began with just 2-3 friends and then expanded to a larger team. We were planning, designing, and executing various Ideas. We launched our first website, which was just a static page.
 
 At this time, I discovered that executing ideas is far more complicated and frustrating than coming up with them. It requires good leadership skills, effective communication, sufficient resources to operate without worry, a strong team that aligns with your vision, and, most importantly, a hardworking mindset.
-I once heard a phrase that says, "You will get as much as you put in; if you work to achieve 10, you will never get 11; you will always get below 10." It's as simple as that.
+I once heard a phrase that says, "*You will get as much as you put in; if you work to achieve 10, you will never get 11; you will always get below 10.*" It's as simple as that.
 
 We built a great team, worked on exciting idea, and learned a lot - from team building and product marketing to creating a culture where everyone aligns with the same dream and lots more.
 
-The beautiful child.
+The beautiful child **[HackerLand](https://hackerland.in/)**.
 [![hackerland](/img/hackerland/hackerland.png)](https://hackerland.in/)
 
-As of now, I have come to understand that patience and perseverance are the keys to success.
+As of now, I have come to understand that *patience and perseverance are the keys to success*.
 
 Due to a lack of financial support, we decided to hibernate our dream project for now, promising to come back stronger.
