@@ -4,22 +4,19 @@ date = 2024-08-07T02:56:24+05:30
 draft = true
 +++
 
+During a long weekend at home, I felt that I was missing something very important in my life: a productive environment and a community that I had in college. Many others likely felt the same, all trying to stay innovative and productive in an environment that lacked those elements.
 
-I was in a long weekend in my home and i feel that i am missing something very important of my life. A productive environment, a community that i used to have in my collage. Like me lots of others will be here who feels the same, all trying to stay innovative and productive in an environment where they are not having any of those. 
+From this simple idea, we started HackerLand with the motto of creating a community for designers, innovators, and programmers all in one place. A community where you would always feel productive and innovative.
+We began with just 2-3 friends and then expanded to a larger team. We were planning, designing, and executing various Ideas. We launched our first website, which was just a static page.
 
-From this simple idea we started HackerLand with a moto to make a community for Designers, Innovators & Programmers at One Place. A community where you will always feel pproductive and innovative. 
+At this time, I discovered that executing ideas is far more complicated and frustrating than coming up with them. It requires good leadership skills, effective communication, sufficient resources to operate without worry, a strong team that aligns with your vision, and, most importantly, a hardworking mindset.
+I once heard a phrase that says, "You will get as much as you put in; if you work to achieve 10, you will never get 11; you will always get below 10." It's as simple as that.
 
-We started with 2-3 of friends only then expanded to a large team. We were planning, designing and executing things. 
-We launched our first website with only static page. 
+We built a great team, worked on exciting idea, and learned a lot - from team building and product marketing to creating a culture where everyone aligns with the same dream and lots more.
 
-At this time i found out that excuting Ideas are far more complecated and fustrateting than finding Ideas. 
+The beautiful child.
+[![hackerland](/img/hackerland/hackerland.png)](https://hackerland.in/)
 
-It needs good leadership skills, good communication skills, enough assets to run without worry, a very good team who alignes with your dream, and the most important is hard working mindset.
+As of now, I have come to understand that patience and perseverance are the keys to success.
 
-I have heard one phresh that says `You will get how much you put efforts, if you work for getting 10 you will never get 11, you will always get below 10` Its as simple as that. 
-
-We built a great team, was working on a great Idea, learnt a lot of things - "From team building, product marketing to creating a culture where all will align to the same dream"
-
-And as of now, what else i have understood that, `patience and perseverance are the key to success`
-
-Because of lack of financial support we decide to hibernate our dream child for now. And prommised to come back stronger. 
+Due to a lack of financial support, we decided to hibernate our dream project for now, promising to come back stronger.
