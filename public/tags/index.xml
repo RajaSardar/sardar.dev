@@ -7,8 +7,36 @@
     <generator>Hugo -- 0.129.0</generator>
     <language>en</language>
     <copyright>Sardar.dev</copyright>
-    <lastBuildDate>Wed, 07 Aug 2024 02:54:20 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 07 Aug 2024 02:56:24 +0530</lastBuildDate>
     <atom:link href="https://sardar.dev/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>College</title>
+      <link>https://sardar.dev/tags/college/</link>
+      <pubDate>Wed, 07 Aug 2024 02:56:24 +0530</pubDate>
+      <guid>https://sardar.dev/tags/college/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hackerland</title>
+      <link>https://sardar.dev/tags/hackerland/</link>
+      <pubDate>Wed, 07 Aug 2024 02:56:24 +0530</pubDate>
+      <guid>https://sardar.dev/tags/hackerland/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Idea</title>
+      <link>https://sardar.dev/tags/idea/</link>
+      <pubDate>Wed, 07 Aug 2024 02:56:24 +0530</pubDate>
+      <guid>https://sardar.dev/tags/idea/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Startup</title>
+      <link>https://sardar.dev/tags/startup/</link>
+      <pubDate>Wed, 07 Aug 2024 02:56:24 +0530</pubDate>
+      <guid>https://sardar.dev/tags/startup/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Bplan</title>
       <link>https://sardar.dev/tags/bplan/</link>
@@ -24,13 +52,6 @@
       <description></description>
     </item>
     <item>
-      <title>College</title>
-      <link>https://sardar.dev/tags/college/</link>
-      <pubDate>Fri, 02 Aug 2024 01:50:41 +0530</pubDate>
-      <guid>https://sardar.dev/tags/college/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Drone</title>
       <link>https://sardar.dev/tags/drone/</link>
       <pubDate>Fri, 02 Aug 2024 01:50:41 +0530</pubDate>
@@ -42,13 +63,6 @@
       <link>https://sardar.dev/tags/hostel/</link>
       <pubDate>Fri, 02 Aug 2024 01:50:41 +0530</pubDate>
       <guid>https://sardar.dev/tags/hostel/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Idea</title>
-      <link>https://sardar.dev/tags/idea/</link>
-      <pubDate>Fri, 02 Aug 2024 01:50:41 +0530</pubDate>
-      <guid>https://sardar.dev/tags/idea/</guid>
       <description></description>
     </item>
     <item>

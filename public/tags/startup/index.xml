@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Idea on Raja Sardar</title>
-    <link>https://sardar.dev/tags/idea/</link>
-    <description>Recent content in Idea on Raja Sardar</description>
+    <title>Startup on Raja Sardar</title>
+    <link>https://sardar.dev/tags/startup/</link>
+    <description>Recent content in Startup on Raja Sardar</description>
     <generator>Hugo -- 0.129.0</generator>
     <language>en</language>
     <copyright>Sardar.dev</copyright>
     <lastBuildDate>Wed, 07 Aug 2024 02:56:24 +0530</lastBuildDate>
-    <atom:link href="https://sardar.dev/tags/idea/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://sardar.dev/tags/startup/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Why and How I Started HackerLand ?</title>
       <link>https://sardar.dev/posts/why-and-how-i-started-hackerland/</link>
@@ -16,13 +16,6 @@
       <guid>https://sardar.dev/posts/why-and-how-i-started-hackerland/</guid>
       <description>During a long weekend at home, I felt that I was missing something very important in my life: a productive environment and a community that I had in college. Many others likely felt the same, all trying to stay innovative and productive in an environment that lacked those elements.
 From this simple idea, we started HackerLand with the motto of creating a community for designers, innovators, and programmers all in one place.</description>
-    </item>
-    <item>
-      <title>We Built Our Own 3D Printed Drone</title>
-      <link>https://sardar.dev/posts/we-built-our-own-3d-printed-drone/</link>
-      <pubDate>Fri, 02 Aug 2024 01:50:41 +0530</pubDate>
-      <guid>https://sardar.dev/posts/we-built-our-own-3d-printed-drone/</guid>
-      <description>After an awesome first year, we moved to a new hostel located inside the college campus. The first few days were filled with the fear of ragging from our beloved seniors. We had a very negative view of ragging, but eventually, we began to understand that those seniors were becoming our guardians and friends. What we believed to be ragging was actually what we needed in real life: the ability to communicate, step out of our comfort zones, and develop other essential skills.</description>
     </item>
   </channel>
 </rss>

@@ -1,7 +1,7 @@
 +++
 title = 'Why and How I Started HackerLand ?'
 date = 2024-08-07T02:56:24+05:30
-draft = true
+tags = ["College", "startup", "Idea", "Hackerland"]
 +++
 
 During a long weekend at home, I felt that I was missing something very important in my life: a productive environment and a community that I had in college. Many others likely felt the same, all trying to stay innovative and productive in an environment that lacked those elements.
