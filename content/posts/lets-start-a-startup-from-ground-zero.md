@@ -1,6 +1,6 @@
 +++
-title = 'L0: Let's Start a Startup from Ground Zero'
-date = 2024-08-12T08:48:42+05:30
+title = "L0: Let's Start a Startup from Ground Zero"
+date = 2024-08-20T08:48:42+05:30
 draft = true
 tags = ["likhoo", "likhoo.in", "startup", "writer", "binary theory", "habit", "L0"]
 +++
