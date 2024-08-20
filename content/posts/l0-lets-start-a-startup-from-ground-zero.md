@@ -18,4 +18,4 @@ My binary theory states that when you start something (e.g., a new habit), you s
 
 From now on, until we achieve this task, I will follow this syntax to maintain our progress: 
 
-Project `L`ikhoo Day `1` : `L1`.
+Project `L`ikhoo Day `1` : `L1`
