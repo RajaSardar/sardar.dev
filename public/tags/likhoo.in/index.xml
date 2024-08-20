@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Startup on Raja Sardar</title>
-    <link>https://sardar.dev/tags/startup/</link>
-    <description>Recent content in Startup on Raja Sardar</description>
+    <title>Likhoo.in on Raja Sardar</title>
+    <link>https://sardar.dev/tags/likhoo.in/</link>
+    <description>Recent content in Likhoo.in on Raja Sardar</description>
     <generator>Hugo -- 0.129.0</generator>
     <language>en</language>
     <copyright>Sardar.dev</copyright>
     <lastBuildDate>Tue, 20 Aug 2024 08:48:42 +0530</lastBuildDate>
-    <atom:link href="https://sardar.dev/tags/startup/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://sardar.dev/tags/likhoo.in/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>L0: Let&#39;s Start a Startup from Ground Zero</title>
       <link>https://sardar.dev/posts/l0-lets-start-a-startup-from-ground-zero/</link>
@@ -16,14 +16,6 @@
       <guid>https://sardar.dev/posts/l0-lets-start-a-startup-from-ground-zero/</guid>
       <description>At least once in our lives, all of us have thought about writing something in the format of a daily diary or a poem or a short story. For older generations, it was obviously a diary where we used to dump everything. However, when we want to share our thoughts with others, there is often a problem.
 For the new generation, everything is digital; we either write on Facebook or any blog platform.</description>
-    </item>
-    <item>
-      <title>Why and How I Started HackerLand ?</title>
-      <link>https://sardar.dev/posts/why-and-how-i-started-hackerland/</link>
-      <pubDate>Wed, 07 Aug 2024 02:56:24 +0530</pubDate>
-      <guid>https://sardar.dev/posts/why-and-how-i-started-hackerland/</guid>
-      <description>During a long weekend at home, I felt that I was missing something very important in my life: a productive environment and a community that I had in college. Many others likely felt the same, all trying to stay innovative and productive in an environment that lacked those elements.
-From this simple idea, we started HackerLand with the motto of creating a community for designers, innovators, and programmers all in one place.</description>
     </item>
   </channel>
 </rss>
