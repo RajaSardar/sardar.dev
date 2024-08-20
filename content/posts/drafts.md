@@ -12,4 +12,4 @@ draft = true
 5. We had our own way to find ideas
 6. I missed the opportunity to be a bitcoin milionear 
 7. patience and perseverance are the key to success. Atlest teach yourself and your kids this in as early as possible in life.
-8.  
+8. Let's Start a Startup from Ground Zero
