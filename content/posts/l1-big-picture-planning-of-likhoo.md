@@ -66,4 +66,4 @@ So, one is done, and seven more to go!
 
 
 ## Binary Theory: Habit Building 
-I missed 1 days between the first day when i start this project and today which is second day of the project, Planning day.
+I missed 1 days between the first day when i started this project and today which is second day of the project, Planning day.
