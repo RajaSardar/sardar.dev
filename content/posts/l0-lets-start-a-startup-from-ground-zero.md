@@ -1,7 +1,7 @@
 +++
 title = "L0: Let's Start a Startup from Ground Zero"
 date = 2024-08-20T08:48:42+05:30
-tags = ["likhoo", "likhoo.in", "startup", "writer", "binary theory", "habit", "L0"]
+tags = ["likhoo", "likhoo.in", "startup", "writer", "binary theory", "habit", "L0", "Day 1"]
 +++
 
 At least once in our lives, all of us have thought about writing something in the format of a daily diary or a poem or a short story. For older generations, it was obviously a diary where we used to dump everything. However, when we want to share our thoughts with others, there is often a problem.

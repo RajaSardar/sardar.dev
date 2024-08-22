@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Day 1 on Raja Sardar</title>
+    <link>https://sardar.dev/tags/day-1/</link>
+    <description>Recent content in Day 1 on Raja Sardar</description>
+    <generator>Hugo -- 0.129.0</generator>
+    <language>en</language>
+    <copyright>Sardar.dev</copyright>
+    <lastBuildDate>Tue, 20 Aug 2024 08:48:42 +0530</lastBuildDate>
+    <atom:link href="https://sardar.dev/tags/day-1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>L0: Let&#39;s Start a Startup from Ground Zero</title>
+      <link>https://sardar.dev/posts/l0-lets-start-a-startup-from-ground-zero/</link>
+      <pubDate>Tue, 20 Aug 2024 08:48:42 +0530</pubDate>
+      <guid>https://sardar.dev/posts/l0-lets-start-a-startup-from-ground-zero/</guid>
+      <description>At least once in our lives, all of us have thought about writing something in the format of a daily diary or a poem or a short story. For older generations, it was obviously a diary where we used to dump everything. However, when we want to share our thoughts with others, there is often a problem.
+For the new generation, everything is digital, we either write on Facebook or any blog platform.</description>
+    </item>
+  </channel>
+</rss>
