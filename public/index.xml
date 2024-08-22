@@ -7,12 +7,12 @@
     <generator>Hugo -- 0.129.0</generator>
     <language>en</language>
     <copyright>Sardar.dev</copyright>
-    <lastBuildDate>Wed, 21 Aug 2024 01:10:59 +0530</lastBuildDate>
+    <lastBuildDate>Thu, 22 Aug 2024 01:10:59 +0530</lastBuildDate>
     <atom:link href="https://sardar.dev/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>L1: Big Picture Planning of Likhoo</title>
       <link>https://sardar.dev/posts/l1-big-picture-planning-of-likhoo/</link>
-      <pubDate>Wed, 21 Aug 2024 01:10:59 +0530</pubDate>
+      <pubDate>Thu, 22 Aug 2024 01:10:59 +0530</pubDate>
       <guid>https://sardar.dev/posts/l1-big-picture-planning-of-likhoo/</guid>
       <description>Likhoo Build a big picture plan for what we will build in points Find a domain name suitable for the project. List out features. Draw a design for the expected UI. Convert the design into static pages. Setup Database. Convert the static pages into the final product. Publish and start promoting. Start working on converting it for other languages. Let&amp;rsquo;s Now Break Down Each Step:: 1. Find a Domain Name Suitable for the Project: As we are building a platform for writers, the domain name should be related to that concept.</description>
     </item>

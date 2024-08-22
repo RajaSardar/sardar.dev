@@ -1,6 +1,6 @@
 +++
 title = 'L1: Big Picture Planning of Likhoo'
-date = 2024-08-21T01:10:59+05:30
+date = 2024-08-22T01:10:59+05:30
 tags = ["likhoo", "likhoo.in", "startup", "writer", "binary theory", "habit", "L1", "Day 2"]
 +++
 
