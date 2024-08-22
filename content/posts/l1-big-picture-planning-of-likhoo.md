@@ -1,7 +1,6 @@
 +++
 title = 'L1: Big Picture Planning of Likhoo'
 date = 2024-08-21T01:10:59+05:30
-draft = true
 tags = ["likhoo", "likhoo.in", "startup", "writer", "binary theory", "habit", "L1", "Day 2"]
 +++
 
@@ -63,3 +62,8 @@ So, one is done, and seven more to go!
 ---
 
 
+
+
+
+## Binary Theory: Habit Building 
+I missed 2 days between the first day when i start this project and today which is second day of the project, Planning day.
